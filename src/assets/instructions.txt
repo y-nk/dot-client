@@ -1,0 +1,45 @@
+Here's a little experiment about communication.
+
+To connect with someone, tap on the sidebar and input the name of your correspondant (press enter or push the [+] button to confirm)
+
+If the person you're trying to reach is online, a chat session will open for both. Then, you can start typing right away. Otherwise, a simple "user not found" message will be prompted here.
+
+Have fun :)
+
+==========
+
+Thoughts behind this experiment:
+
+I created this in order to reflect on the UX patterns involved into text-based communications.
+
+In a real (voiced) conversation, instant is the essence. For most of the time, a multiple person interaction would involve mostly listening to someone's expression and later on reacting to it. For such a paradigm, listening is a primary function, and reacting is a response to it. Of course, some may prepare sentences in advanced, but then they wouldn't be fully listening and that would probably be seen.
+
+In text-based conversations, and because we use a mediator in between people, we relay on that mediator's functionalities to communicate. The interactions aren't based on our primal instincts but rather on what the tool let us do.
+
+It appeared to me that UX in that matter is quite consistent, but somehow differs from "the normal course of actions" since most are treating text-based conversation as something asynchronous rather than just a text translation of a phone call.
+
+Notably, those points came to mind:
+
+- The ability to type, redact and correct a message before sending.
+
+It's sure something that doesn't occur organically in a conversation. Naturally, you can think ahead and take a pause to organize your thoughts, but in that case it translates into a real-timed pause within a conversation which induces its own context: "why does my correspondant need a pause?, what are they thinking now?" ; not to mention the casual awkwardness of silence which can come with it.
+
+In a text-based world, if this real time pause may exist, but does not translate into the same intent, rather "did my correspondant read my message?" ; for most of the time it doesn't exist anyway, and that because of the asynchronicity of it.
+
+You may argue that SMS were first to induce this, and you'd be right. But other factors are increasing the differences as well. At most, SMS were a technical constraint at the time, not an architectural design choice.
+
+- The layout of most of messages app doesn't reflect a conversation
+
+Because text-based conversations are treated as asynchronous, we're most likely to not pay attention to it in the same way we treat a fragile, time-dependent conversation.
+
+The typical messaging app will always display the reading space and the writing space at the same time. Along with the asynchronous nature, this induces the choice into a user to care more about its own writing than listening to the conversation before reacting. It is natural to say, user still have the choice to listen first, but I personally believe that this contributed to shift our relationship with relationships and conversations in modern society.
+
+To battle this idea, this text-based chat application is entirely synchronous.
+
+- You can't reach people who aren't online
+- There's no reading/writing space dichotomy, only one space for conversation.
+- There's no buffer in typing, so that typing simultaneously will result in giberrish, as much as in real life and that users need to find a rythm to listen to each other.
+
+By doing so, I hope to bring awareness that other people need to be listened to, and cared for, rather than focusing on ourselves and what we want to express.
+
+Of course, it's always a balance, but as for now it seems it's already leaning towards a side promoting the self rather than openness to others.
